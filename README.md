@@ -52,4 +52,4 @@ iv) Perform face detection with label in real-time video from webcam.
 - Step 3: Apply `detect_face()` function on each frame  
 - Step 4: Display the video frame with rectangles around detected faces  
 - Step 5: Exit loop and close windows when ESC key (key code 27) is pressed  
-- Step 6: Release video capture and destroy all OpenCV windows  
+- Step 6: Release video capture and destroy all OpenCV windows
